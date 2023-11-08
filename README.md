@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 des logiciel
 ligne bidon
+creation d un conflit
 
 ```
 
